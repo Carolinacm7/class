@@ -5,4 +5,4 @@ en una lista y la muestre por pantalla el mensaje Yo estoy viendo <materia>,
   utilice una función llamada yo estoy viendo,
    que reciba como entrada una cadena de texto con los nombres
     de las materias separadas por coma.
- Ej: "Inglés,Física, Sociales,Historia,Programación
+ Ej: "Inglés,Física, Sociales,Historia,Programación"
